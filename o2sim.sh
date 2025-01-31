@@ -5,6 +5,7 @@ requires:
   - O2DPG
   - QualityControl
   - AEGIS
+  - EVTGEN
   - AliGenO2:(?!osx|.*aarch64)
   - jq
 ---
