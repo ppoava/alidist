@@ -1,7 +1,7 @@
 package: PHOTOS
 version: "%(tag_basename)s"
-tag: "v3.64"
-source: https://github.com/alisw/photospp.git
+tag: "macosx"
+source: https://github.com/Elros60/photospp.git
 requires:
   - HepMC
   - HepMC3
